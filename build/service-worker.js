@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-blockchain/precache-manifest.76f0a0133a70504ff475424e9c2101d6.js"
+  "/react-block-chainyard/precache-manifest.c4ebe1428ca2c6ed1d1f920081a40c2c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/react-blockchain/index.html", {
+workbox.routing.registerNavigationRoute("/react-block-chainyard/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
