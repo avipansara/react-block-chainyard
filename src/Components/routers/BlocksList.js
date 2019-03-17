@@ -11,7 +11,7 @@ class BlockList extends React.Component{
     // waits until it recieves data from API
     async componentDidMount(){
         const response = await BlockChainAPI.get('blocks');
-        console.log(response.data.blocks);
+        //console.log(response.data.blocks);
         this.setState({data:response.data.blocks}); 
     }
 
