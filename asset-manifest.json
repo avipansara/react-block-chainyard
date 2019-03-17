@@ -1,11 +1,11 @@
 {
-  "main.js": "/react-block-chainyard/static/js/main.9836e4a9.chunk.js",
-  "main.js.map": "/react-block-chainyard/static/js/main.9836e4a9.chunk.js.map",
-  "runtime~main.js": "/react-block-chainyard/static/js/runtime~main.71dd92e4.js",
-  "runtime~main.js.map": "/react-block-chainyard/static/js/runtime~main.71dd92e4.js.map",
-  "static/js/2.745c211a.chunk.js": "/react-block-chainyard/static/js/2.745c211a.chunk.js",
-  "static/js/2.745c211a.chunk.js.map": "/react-block-chainyard/static/js/2.745c211a.chunk.js.map",
-  "index.html": "/react-block-chainyard/index.html",
-  "precache-manifest.c4ebe1428ca2c6ed1d1f920081a40c2c.js": "/react-block-chainyard/precache-manifest.c4ebe1428ca2c6ed1d1f920081a40c2c.js",
-  "service-worker.js": "/react-block-chainyard/service-worker.js"
+  "main.js": "/static/js/main.898865b9.chunk.js",
+  "main.js.map": "/static/js/main.898865b9.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.745c211a.chunk.js": "/static/js/2.745c211a.chunk.js",
+  "static/js/2.745c211a.chunk.js.map": "/static/js/2.745c211a.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.1af2f8312eba584a2b1b404bcf25f9c0.js": "/precache-manifest.1af2f8312eba584a2b1b404bcf25f9c0.js",
+  "service-worker.js": "/service-worker.js"
 }
